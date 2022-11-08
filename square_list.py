@@ -8,6 +8,6 @@ def square_list(num):
     for i in range(0,len(num)):
         num[i]=(num[i])**2
     print(num)
-square_list([3,5,7])
+#square_list([3,5,7])
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
