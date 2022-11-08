@@ -5,6 +5,9 @@
 
 
 def square_list(num):
+    '''
+    Takes a list and returns the square of each individual element. 
+    '''
     for i in range(0,len(num)):
         num[i]=(num[i])**2
     print(num)
